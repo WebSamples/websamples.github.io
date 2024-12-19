@@ -1,1 +1,17 @@
-
+.counter {
+  text-align: center;
+  border: solid black 2px;
+  display: block;
+  width: fit-content;
+  padding: 2px;
+  margin: auto;
+}
+.counter h1 {
+  color: black;
+}
+.counter button {
+  font-family: Verdana, Helvetica, Arial;
+  background-color: white;
+  color: black;
+  cursor: pointer;
+}
